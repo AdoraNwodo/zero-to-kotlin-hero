@@ -1,7 +1,7 @@
 # Zero to Kotlin Hero
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AdoraNwodo/zero-to-kotlin-hero/)
-[![LICENSE](https://img.shields.io/github/license/AdoraNwodo/javascript-fundamentals.svg)](https://github.com/AdoraNwodo/zero-to-kotlin-hero/)
+[![LICENSE](https://img.shields.io/github/license/AdoraNwodo/zero-to-kotlin-hero.svg)](https://github.com/AdoraNwodo/zero-to-kotlin-hero/blob/master/LICENSE)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/AdoraNwodo/zero-to-kotlin-hero/network/members)
 
 Learn Kotlin in 2018 and become a great Android Developer. Code snippets to help.
