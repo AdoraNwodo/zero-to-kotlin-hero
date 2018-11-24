@@ -6,7 +6,7 @@
 
 Learn Kotlin in 2018 and become a great Android Developer. Code snippets to help.
 
- - [Variables & DataTypes in Kotlin](https://github.com/AdoraNwodo/zero-to-kotlin-hero/tree/master/01%20-%20Variables%20and%20Data%20Types/src)
+ - [Variables & Data Types in Kotlin](https://github.com/AdoraNwodo/zero-to-kotlin-hero/tree/master/01%20-%20Variables%20and%20Data%20Types/src)
 
 
 ## License
