@@ -14,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+            <state relative-caret-position="448">
+              <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -37,8 +37,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="106" />
+    <option name="x" value="6" />
+    <option name="y" value="59" />
     <option name="width" value="1400" />
     <option name="height" value="788" />
   </component>
@@ -103,7 +103,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="106" width="1400" height="788" extended-state="0" />
+    <frame x="6" y="59" width="1400" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -115,7 +115,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.3275862" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3275862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13793103" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -129,8 +129,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        <state relative-caret-position="448">
+          <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
         </state>
       </provider>
     </entry>
